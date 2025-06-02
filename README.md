@@ -38,7 +38,7 @@ Good Luck :)
 * Bootstrap
 ## Back-end
 * Django
-* SQLite 3
+* MY SQL
 
 # Screenshots of the Project
 <p align="center">
